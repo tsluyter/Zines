@@ -1,5 +1,7 @@
 # Tess Sluijter's Zines
 
+<img align="right" src="https://www.kilala.nl/Images/Blog/TessLaptop.png" />
+
 If you've met me IRL, you will most likely have seen me doodling or drawing. It's an almost compulsory thing for me! I've often said that drawing is like my brain's "*Idle Process*", running in the background making sure I pay attention to things around me, like meetings or phone calls. 
 
 Over the past 30+ years I've mostly drawn for my own enjoyment, though I've also published [*yonkoma* comics](https://en.wikipedia.org/wiki/Yonkoma) about my daily life and even tried my hand at a short story or two. In 2019 things took a new turn after [b0rk (Julia)](https://twitter.com/b0rk?lang=en_) and [SailorHG (Amy)](https://twitter.com/sailorhg?lang=en) inspired me to make a "zine".
@@ -25,3 +27,4 @@ You are free to copy, read, print, edit, change, re-use, whatever these zines as
 * You must share your derivates under the same license, 
 * Please attribute my original work and
 * Only use it for non-commercial purposes.
+
