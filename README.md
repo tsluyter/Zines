@@ -19,6 +19,8 @@ Each zine's folder contains a bunch of files:
 * The "www" PDF is easier to read on-screen.
 * The TIF files are edited and cleaned-up scans of the original pages. 
 
+Some of the zines (like RND02) are not booklets, but of the fold-multiple-times variation. [Here's a video that shows how to make one, and also how to fold and cut it.[(https://www.youtube.com/watch?v=Jz0BPgMYqG4)
+
 
 # License
 
