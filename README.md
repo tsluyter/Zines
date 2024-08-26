@@ -15,11 +15,24 @@ For starters, I'll write about things I've learned during my work and studies wh
 
 Each zine's folder contains a bunch of files:
 
-* The "booklet" PDF is ready for printing (use double-sided, long-edge binding).
+* The "booklet" PDF is ready for printing.
 * The "www" PDF is easier to read on-screen.
 * The TIF files are edited and cleaned-up scans of the original pages. 
 
 Some of the zines (like RND02) are not booklets, but of the fold-multiple-times variation. [Here's a video that shows how to make one, and also how to fold and cut it.[(https://www.youtube.com/watch?v=Jz0BPgMYqG4)
+
+
+# Making a booklet
+
+This has been a hassle for me, because Apple removed the "print to booklet" feature from MacOS.
+
+When making a booklet with 12 pages of content, and a separate cover, the order of the pages must be as follows:
+
+`back, front, blank, blank, 12, 1, 2, 11, 10, 3, 4, 9, 8, 5, 6, 7`
+
+If you print it double-sided, with TWO pages per sheet, with short-edge binding, it will work. 
+
+TIL issue 1 has flipped odd and even pages, which requires long-edge binding. 
 
 
 # License
