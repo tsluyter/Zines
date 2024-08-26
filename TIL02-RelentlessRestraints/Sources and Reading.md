@@ -12,3 +12,4 @@
 * https://github.com/abbat/elfexec
 * https://github.com/XiphosResearch/netelf
 * https://github.com/earthquake/chw00t 
+* https://unix.stackexchange.com/questions/83862/how-to-chmod-without-usr-bin-chmod
